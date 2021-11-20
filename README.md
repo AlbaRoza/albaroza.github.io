@@ -3,9 +3,9 @@
 
 ## INFO
 
-Template Name: Miller
-Design/Development: [Template Foundation](templatefoundation.com)
-License: Free for personal and commercial use under the Creative Commons Attribution 4.0 license
+* Template Name: Miller
+* Design/Development: [Template Foundation](templatefoundation.com)
+* License: Free for personal and commercial use under the Creative Commons Attribution 4.0 license
 
 ## CREDITS
 
